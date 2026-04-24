@@ -2,5 +2,4 @@ scikit-learn
 pandas
 numpy
 seaborn
-pickle
 xgboost
